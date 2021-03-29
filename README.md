@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=electroNBS&show_icons=true&theme=dark&count_private=true)
-![My WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=a89280bf-f554-4d9f-8f45-1b5570ad8eeb&layout=compact&theme=dark)
+
