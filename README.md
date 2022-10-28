@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=electroNBS&show_icons=true&theme=dark&count_private=true) <br>
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=electroNBS)
-
+![](https://komarev.com/ghpvc/?username=electroNBS)
 
