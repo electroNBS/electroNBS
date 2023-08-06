@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=electroNBS)](https://git.io/streak-stats) <br>
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=electroNBS&show_icons=true&theme=dark&count_private=true) <br>
+<img src="https://profile-counter.glitch.me/electroNBS/count.svg" />
+<br>
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=electroNBS)
 
 
